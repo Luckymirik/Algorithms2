@@ -7,4 +7,5 @@ Necessary:
 2.Add to the implementation a private method with the fastest sorting considered.
 Please note that to compare sortings you need to use 3 different copies of the array, since it is incorrect to sort a previously sorted array.
 Attach the comparison code itself if desired.
+
 3. Add a private binary search method to the implementation.

@@ -1,7 +1,6 @@
 # Algorithms2
 Educational project. 2nd course. "Basics of Algorithms, Part 2."
 
-
 Write another implementation of the interface from the previous homework, but with additional methods.
 Necessary:
 1. Write a second implementation of the list interface (copy and adjust the first) to “fit” it for working with integers, using the Integer reference type.
